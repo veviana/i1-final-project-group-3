@@ -1,6 +1,6 @@
 # StudyBuddy
 
-This template should help get you started developing with Vue 3 in Vite.
+This website is designed to be intuitive and user-friendly, enabling students to connect with peers of various study preferences and backgrounds conveniently.
 
 ## Recommended IDE Setup
 
